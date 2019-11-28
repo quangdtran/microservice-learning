@@ -1,0 +1,17 @@
+{
+  "name": "practices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "express-seneca.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "seneca": "^3.17.0",
+    "seneca-web": "^2.2.1",
+    "seneca-web-adapter-express": "^1.2.0"
+  }
+}
